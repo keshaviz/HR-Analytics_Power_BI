@@ -1,1 +1,3 @@
 # HR-Analytics_Power_BI
+
+Developed dashboards using Power BI to monitor key HR metrics and identify factors impacting employee attrition. Utilized data from multiple sources to build a comprehensive data model, employing the Kimball modeling approach. Conducted data transformations, wrote DAX measures, and designed intuitive visualizations, including trends in hiring, departmental roles, and demographic insights. Successfully identified a 16% attrition rate and analyzed workforce demographics, age distribution, and job satisfaction metrics. The project demonstrated strong data integration and visualization skills, contributing to data-driven decision-making in HR management.
